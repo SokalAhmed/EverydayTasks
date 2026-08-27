@@ -1,0 +1,8 @@
+{
+  "name": "Everyday Tasks",
+  "description": "A simple offline everyday task app that automatically retains and carries over unfinished tasks from yesterday.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
